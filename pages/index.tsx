@@ -12,7 +12,6 @@ export default function Home() {
         </a>
       </section>
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 px-6">
-        {/* 示例商品卡片 */}
         <ProductCard title="示例商品" image="/images/sample.jpg" />
       </section>
     </Layout>
